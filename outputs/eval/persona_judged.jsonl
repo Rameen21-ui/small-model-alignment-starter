@@ -1,0 +1,16 @@
+{"id": "persona-eval-00", "winner_slot": "A", "winner": "base", "_meta": {"A": "base", "B": "lora"}}
+{"id": "persona-eval-01", "winner_slot": "A", "winner": "lora", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-02", "winner_slot": "B", "winner": "lora", "_meta": {"A": "base", "B": "lora"}}
+{"id": "persona-eval-03", "winner_slot": "A", "winner": "lora", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-04", "winner_slot": "B", "winner": "base", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-05", "winner_slot": "A", "winner": "lora", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-06", "winner_slot": "A", "winner": "base", "_meta": {"A": "base", "B": "lora"}}
+{"id": "persona-eval-07", "winner_slot": "tie", "winner": "tie", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-08", "winner_slot": "tie", "winner": "tie", "_meta": {"A": "base", "B": "lora"}}
+{"id": "persona-eval-09", "winner_slot": "A", "winner": "base", "_meta": {"A": "base", "B": "lora"}}
+{"id": "persona-eval-10", "winner_slot": "tie", "winner": "tie", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-11", "winner_slot": "tie", "winner": "tie", "_meta": {"A": "base", "B": "lora"}}
+{"id": "persona-eval-12", "winner_slot": "tie", "winner": "tie", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-13", "winner_slot": "tie", "winner": "tie", "_meta": {"A": "base", "B": "lora"}}
+{"id": "persona-eval-14", "winner_slot": "tie", "winner": "tie", "_meta": {"A": "lora", "B": "base"}}
+{"id": "persona-eval-15", "winner_slot": "A", "winner": "base", "_meta": {"A": "base", "B": "lora"}}
